@@ -22,10 +22,12 @@ The main menu is the initial appearance of the game. There is a game title "Free
 ![4](https://user-images.githubusercontent.com/47528661/158932970-ebecfd43-4959-4bdc-92ea-d2bf2a0d0ce0.png)</br>
 </br>
 2) Choosing an Arena</br>
-On this page, players are asked to choose an arena which will determine the character to play.</br>![5](https://user-images.githubusercontent.com/47528661/158933114-867675f8-27fa-47dd-a3e1-64b894614fcb.png) </br>
+On this page, players are asked to choose an arena which will determine the character to play.</br>
+![5](https://user-images.githubusercontent.com/47528661/158933114-867675f8-27fa-47dd-a3e1-64b894614fcb.png) </br>
 </br>
 3) Level 1 </br>
-At this level there are obstacles such as. There are items that must be picked up by players in the form of commodities according to the selected area, each commodity is worth 20 points.</br>![6](https://user-images.githubusercontent.com/47528661/158933248-0115351b-443c-4fb3-9a1e-84ea61add12f.png)</br>
+At this level there are obstacles such as. There are items that must be picked up by players in the form of commodities according to the selected area, each commodity is worth 20 points.</br>
+![6](https://user-images.githubusercontent.com/47528661/158933248-0115351b-443c-4fb3-9a1e-84ea61add12f.png)</br>
 </br>
 4) Level 2</br>
 At this stage the player will be faced with various difficulties. There are obstacles like holes, and enemies like soldiers. There are items that must be picked up by players in the form of commodities according to the selected area, each item is worth 20 points.</br>
