@@ -23,7 +23,7 @@ The main menu is the initial appearance of the game. There is a game title "Free
 </br>
 2) Choosing an Arena</br>
 On this page, players are asked to choose an arena which will determine the character to play.</br>
-![5](https://user-images.githubusercontent.com/47528661/158933114-867675f8-27fa-47dd-a3e1-64b894614fcb.png) </br>
+![5](https://user-images.githubusercontent.com/47528661/158933909-13c48a0c-872b-4d58-9292-24d8531a044f.png)</br>
 </br>
 3) Level 1 </br>
 At this level there are obstacles such as. There are items that must be picked up by players in the form of commodities according to the selected area, each commodity is worth 20 points.</br>
